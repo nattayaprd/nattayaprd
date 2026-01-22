@@ -10,10 +10,4 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm died-hard swifties
 
-<div align="center">
-  <h3>🎧 Now Playing on Spotify</h3>
-  <a href="https://open.spotify.com/home">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=92762314ae934768&cover_image=true&theme=vague&show_offline=true&interact=true" />
-  </a>
-  <p><i>"You deserve prison, but you won't get time."</i> 🖋️🤍</p>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21zazakwajw3w5ql3y46h7b3i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21zazakwajw3w5ql3y46h7b3i&redirect=true)
