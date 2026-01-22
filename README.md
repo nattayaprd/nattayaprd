@@ -1,3 +1,5 @@
+&theme=vague
+
 ## ✨ Hi there ! Nattaya is here 👋✨
 
 - 🔭 I’m currently seeking for software testing related career.
@@ -5,8 +7,12 @@
 - 💬 Ask me about anything! okay!
 - 📫 How to reach me: ... 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm died-hard swifties
 
-![The Smallest Man Who Ever Lived]([https://img.youtube.com/vi/XPK8c3RgVGE/0.jpg](https://share.google/PSylh0Sl4lLECTwiu))]
-
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=lSCbseKwNFI">
+    <img src="https://img.youtube.com/vi/lSCbseKwNFI/maxresdefault.jpg" width="400" alt="The Smallest Man Who Ever Lived">
+  </a>
+  <p><i>"You deserve prison, but you won't get time."</i> 🏛️📜</p>
+</div>
 > "Were you sent by someone who wanted me dead? Did you sleep with a gun underneath our bed?" 🖋️🤍
