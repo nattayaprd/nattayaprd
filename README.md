@@ -11,4 +11,4 @@
 - ⚡ Fun fact: I'm died-hard swifties and pharbs
 
 🎧 Now Playing 🎧 <br>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21zazakwajw3w5ql3y46h7b3i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ded7ce&interchange=true&profanity=false&bar_color=5a5858&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21zazakwajw3w5ql3y46h7b3i&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21zazakwajw3w5ql3y46h7b3i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=cdc4b7&interchange=false&profanity=false&bar_color=6b6661&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21zazakwajw3w5ql3y46h7b3i&redirect=true)
