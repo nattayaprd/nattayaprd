@@ -10,9 +10,10 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm died-hard swifties
 
-<div align="left">
-  <a href="[https://www.youtube.com/watch?v=Atdzfj8LcuY]">
-    <img src="https://img.youtube.com/vi/lSCbseKwNFI/maxresdefault.jpg" width="400" alt="The Smallest Man Who Ever Lived">
+<div align="center">
+  <h3>🎧 Now Playing</h3>
+  <a href="https://open.spotify.com/track/1ovunm6pAtT96vW0I6868L">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=nattayaprd&cover_image=true&theme=vague&show_offline=true&interact=true" />
   </a>
-  <p><i>"You deserve prison, but you won't get time."</i> 🏛️📜</p>
+  <p><i>"You deserve prison, but you won't get time."</i> 🖋️🤍</p>
 </div>
