@@ -20,4 +20,4 @@
 </p>
 
 <h3> 🛠️ &nbsp;Also meet me on</h3>
-![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)
+[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/whisperinglittleleaf)
