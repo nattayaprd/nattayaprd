@@ -11,8 +11,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=lSCbseKwNFI">
-    <img src="https://img.youtube.com/vi/lSCbseKwNFI/maxresdefault.jpg" width="400" alt="The Smallest Man Who Ever Lived">
+    <img src="https://img.youtube.com/vi/lSCbseKwNFI/maxresdefault.jpg" width="200" alt="The Smallest Man Who Ever Lived">
   </a>
   <p><i>"You deserve prison, but you won't get time."</i> 🏛️📜</p>
 </div>
-> "Were you sent by someone who wanted me dead? Did you sleep with a gun underneath our bed?" 🖋️🤍
