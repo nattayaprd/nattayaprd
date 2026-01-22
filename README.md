@@ -1,6 +1,4 @@
 
-&theme=natura
-
 ## ✨ Hi there ! Nattaya is here 👋✨
 
 - 🔭 I’m currently seeking for software testing related career.
