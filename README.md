@@ -10,4 +10,4 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm died-hard swifties
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21zazakwajw3w5ql3y46h7b3i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21zazakwajw3w5ql3y46h7b3i&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21zazakwajw3w5ql3y46h7b3i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ded7ce&interchange=true&profanity=false&bar_color=5a5858&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21zazakwajw3w5ql3y46h7b3i&redirect=true)
