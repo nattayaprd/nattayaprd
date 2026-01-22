@@ -7,3 +7,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
+![The Smallest Man Who Ever Lived](https://img.youtube.com/vi/XPK8c3RgVGE/0.jpg)](https://www.youtube.com/watch?v=XPK8c3RgVGE)
+
+> "Were you sent by someone who wanted me dead? Did you sleep with a gun underneath our bed?" 🖋️🤍
