@@ -11,9 +11,7 @@
 - ⚡ Fun fact: I'm died-hard swifties
 
 <div align="center">
-  <h3>🎧 Now Playing</h3>
   <a href="https://open.spotify.com/track/1ovunm6pAtT96vW0I6868L">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=nattayaprd&cover_image=true&theme=vague&show_offline=true&interact=true" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=6rjpIfWNWwzg7hd1KxDK5f&cover_image=true&theme=dark&bar_color=555555&bar_color_cover=false" />
   </a>
-  <p><i>"You deserve prison, but you won't get time."</i> 🖋️🤍</p>
 </div>
