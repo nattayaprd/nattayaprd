@@ -12,6 +12,6 @@
 
 <div align="center">
   <a href="https://open.spotify.com/track/1ovunm6pAtT96vW0I6868L">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=21zazakwajw3w5ql3y46h7b3i?si=29eb3b6f644c4aa6&cover_image=true&theme=dark&bar_color=555555&bar_color_cover=false" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=21zazakwajw3w5ql3y46h7b3i?si=92762314ae934768&cover_image=true&theme=natura&bar_color=555555&bar_color_cover=false" />
   </a>
 </div>
