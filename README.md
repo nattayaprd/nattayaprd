@@ -13,7 +13,7 @@
 <div align="center">
   <h3>🎧 Now Playing on Spotify</h3>
   <a href="https://open.spotify.com/home">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=21zazakwajw3w5ql3y46h7b3i?si=92762314ae934768&cover_image=true&theme=vague&show_offline=true&interact=true" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=92762314ae934768&cover_image=true&theme=vague&show_offline=true&interact=true" />
   </a>
   <p><i>"You deserve prison, but you won't get time."</i> 🖋️🤍</p>
 </div>
