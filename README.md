@@ -2,7 +2,7 @@
 ## ✨ Hi there ! Nattaya is here 👋✨
 
 - 🔭 I’m currently seeking for software testing related career.
-- 🌱 I’m currently learning Automate testing and everything which can help me to perform work as Software tester easier.
+- 🌱 I’m currently learning Automate testing and everything which can help me to perform works as a Software tester easier.
 - 💬 Ask me about: anything! okay!
 - 📫 How to reach me: Call for the Albatross to send me a letter
 - 😄 Pronouns: She/Her
